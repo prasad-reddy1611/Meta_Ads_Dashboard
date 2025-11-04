@@ -48,7 +48,7 @@ To fully interact with all the features and explore the underlying data model, y
 *   **Data Source:** Exported CSV/Excel files
     
 
-🖼️ Dashboard Preview
+### 🖼️ Dashboard Preview
 
 Here is a quick look at the main report page:
 
