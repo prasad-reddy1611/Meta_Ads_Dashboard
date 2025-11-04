@@ -51,3 +51,6 @@ To fully interact with all the features and explore the underlying data model, y
 🖼️ Dashboard Preview
 
 Here is a quick look at the main report page:
+
+<img width="1373" height="788" alt="Screenshot_of_Dashboard" src="https://github.com/user-attachments/assets/8dbb37cb-f2e4-46be-8d05-a320071b5296" />
+
