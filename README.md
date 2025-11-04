@@ -18,7 +18,8 @@ This repository contains the source Power BI file (Meta\_Ads\_Dashboard.pbit) fo
 *   **Time Analysis:** Trends visualized by **Week, Hour, and Month** to support ad scheduling optimization.
     
 *   **Dynamic Filtering:** Easily filter the entire report by **Campaign Name** and **Target Interest**.
-    
+
+------------ 
 
 ### 🚀 How to View/Use the Dashboard
 
@@ -34,7 +35,8 @@ To fully interact with all the features and explore the underlying data model, y
 1.  **Clone the repository** to your local machine:
     
 2.  **Open the file:** Navigate to the cloned folder and open the main report file: **Meta\_Ads\_Dashboard.pbit**.
-    
+
+---------
 
 ### 📂 Repository Structure
 
@@ -46,7 +48,8 @@ To fully interact with all the features and explore the underlying data model, y
 *   **Calculations:** All custom metrics and rates (e.g., CTR) are calculated using **DAX (Data Analysis Expressions)**.
     
 *   **Data Source:** Exported CSV/Excel files
-    
+
+------------------------
 
 ### 🖼️ Dashboard Preview
 
@@ -54,3 +57,4 @@ Here is a quick look at the main report page:
 
 <img width="1373" height="788" alt="Screenshot_of_Dashboard" src="https://github.com/user-attachments/assets/8dbb37cb-f2e4-46be-8d05-a320071b5296" />
 
+----
