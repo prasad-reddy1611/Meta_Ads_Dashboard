@@ -3,7 +3,7 @@ Meta Ad Performance Dashboard (Power BI)
 
 > An interactive Power BI dashboard designed to monitor and analyze the key performance indicators (KPIs) of advertising campaigns run across Meta platforms (Facebook and Instagram).
 
-✨ Overview
+### ✨ Overview
 
 This repository contains the source Power BI file (Meta\_Ads\_Dashboard.pbit) for the **Meta Ad Performance Dashboard**. This report offers a comprehensive, single-view assessment of ad campaign results, enabling quick analysis of efficiency, audience behavior, and spending trends.
 
@@ -20,7 +20,7 @@ This repository contains the source Power BI file (Meta\_Ads\_Dashboard.pbit) fo
 *   **Dynamic Filtering:** Easily filter the entire report by **Campaign Name** and **Target Interest**.
     
 
-🚀 How to View/Use the Dashboard
+### 🚀 How to View/Use the Dashboard
 
 To fully interact with all the features and explore the underlying data model, you need to open the file locally using Power BI Desktop.
 
@@ -36,7 +36,7 @@ To fully interact with all the features and explore the underlying data model, y
 2.  **Open the file:** Navigate to the cloned folder and open the main report file: **Meta\_Ads\_Dashboard.pbit**.
     
 
-📂 Repository Structure
+### 📂 Repository Structure
 
 ⚙️ Data Source and Technologies
 -------------------------------
